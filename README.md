@@ -1,7 +1,7 @@
 # push_swap
 Fifth 42 project : push_swap
 
-# Description
+# Description 
 The goal of this project was to create a program that sorts an array of int the most effective way.
 
 # Installation
